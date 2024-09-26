@@ -4,7 +4,7 @@ This repository contains the files necessary for building the quadrotor presente
 
 Freeflight           |  Quadrotor components
 :-------------------------:|:-------------------------:
-![alt text](assets/haptic_rc.GIF)  |  ![alt text](assets/omniquad.GIF)
+![alt text](assets/bb-freeflight.gif)  |  ![alt text](assets/bb-exploded.gif)
 
 
 ## Key Features
@@ -38,7 +38,7 @@ The arm is linked with only two bolts and attach the landing gear with the frame
 
 ### Electronics
 
-To command the robot we connect the flight controller and flash it with the last version of [PX4](https://github.com/PX4/PX4-Autopilot). 
+To command the robot we connect the flight controller and flash it with the last version of [PX4](https://github.com/PX4/PX4-Autopilot). Motor depending on the application can be mounted with four screws.
 
 - Pixhawk 6C
 - Brushless motors x 4
